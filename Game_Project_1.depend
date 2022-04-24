@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650663693 source:c:\users\hp\desktop\stacks\game_project_1\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
