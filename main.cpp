@@ -11,7 +11,7 @@
 #define T1POS 15
 #define T2POS 30
 #define T3POS 45
-#define DISKS 5
+#define DISKS 7
 char cond;
 using namespace std;
 
